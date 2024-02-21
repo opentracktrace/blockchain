@@ -1,13 +1,11 @@
 Dear contributors and users,
 
-We would like to inform you that we have recently made significant changes to our repository structure. In order to streamline our development process and foster better contributions, we have merged three separate repositories Cumulus, Substrate and Polkadot into a single new repository: [the Polkadot SDK](https://github.com/paritytech/polkadot-sdk). Go ahead and make sure to support us by giving a star ⭐️ to the new repo.
+Discover the future of decentralized finance and logistics with Open Track Trace, our pioneering DePIN - DeFi project. We're excited to announce the presale of our ecosystem utility token, OTT, a cornerstone of the Open Track Trace platform. This innovative blockchain-based solution offers a comprehensive parcel track-and-trace tool alongside a robust payment system, designed to significantly enhance transparency, efficiency, and user control across the logistics chain.
 
-By consolidating our codebase, we aim to enhance collaboration and provide a more efficient platform for future development.
+Prepare to be part of the revolution with the launch of Traeck (TRCK), our dedicated payment token, set to become the heartbeat of the Open Track Trace blockchain network once operational. This unique ecosystem promises to redefine the standards of logistics and financial transactions, ensuring a seamless, secure, and transparent experience for users worldwide.
 
-If you currently have an open pull request in any of the merged repositories, we kindly request that you resubmit your PR in the new repository. This will ensure that your contributions are considered within the updated context and enable us to review and merge them more effectively.
-
-We appreciate your understanding and ongoing support throughout this transition. Should you have any questions or require further assistance, please don't hesitate to [reach out to us](https://forum.polkadot.network/t/psa-parity-is-currently-working-on-merging-the-polkadot-stack-repositories-into-one-single-repository/2883).
+Seize this unparalleled investment opportunity in a project that blends the best of blockchain technology with real-world utility. Join us in shaping the future of DeFi and logistics with Open Track Trace.
 
 Best Regards,
 
-Parity Technologies
+The OpenTrackTrace Team
